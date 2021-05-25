@@ -1,0 +1,1 @@
+Geschlecht;Altersgruppe;"Anzahl Fälle";"Fälle pro 100.000 Einwohner";"Fälle vergangene 7 Tage";"Fälle vergangene 7 Tage pro 100.000 Einwohner";"verstorbene Fälle";"verstorbene Fälle pro 100.000 Einwohner"

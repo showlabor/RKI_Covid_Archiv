@@ -1,0 +1,1 @@
+Meldedatum;id;GKZ;Landkreis;"bestätigte Fälle";"Fälle vergangene 7-Tage";"7-Tagesinzidenz pro 100.000 Einwohner"

@@ -1,0 +1,1 @@
+Altersgruppe;"Anzahl Fälle";Meldewoche;Jahr

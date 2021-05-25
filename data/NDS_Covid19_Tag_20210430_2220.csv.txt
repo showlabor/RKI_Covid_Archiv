@@ -1,0 +1,1 @@
+Meldedatum;"Anzahl Fälle";7-Tages-Inzidenz;Todesfälle

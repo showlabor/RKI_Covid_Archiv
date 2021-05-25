@@ -1,0 +1,1 @@
+id;GKZ;Landkreis;"bestätigte Fälle";"Fälle pro 100.000 Einwohner";"Änderung zum Vortag";"verstorbene Fälle";"verstorbene Fälle Änderung zum Vortag";"Fälle pro Fläche (pro 100 km²)";"Fälle vergangene 7 Tage";"Fälle vergangene 7 Tage pro 100.000 Einwohner"
