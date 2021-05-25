@@ -2,6 +2,8 @@ Archiv der vom RKI täglich veröffentlichten Excel-Dateien mit fixierten[1] und
 
 (Wird _nahezu_ täglich aktualisiert.)
 
+Ältere Daten des NLGA sind ebenfalls vorhanden, werden aber nicht mehr aktualisiert.
+
 [1] https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Fallzahlen_Kum_Tab.xlsx?__blob=publicationFile
 
 [2] https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Fallzahlen_Inzidenz_aktualisiert.xlsx?__blob=publicationFile
